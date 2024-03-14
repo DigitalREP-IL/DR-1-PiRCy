@@ -1,0 +1,107 @@
+Cmp-Mod V01 Created by PcbNew   date = 2018-09-30 7:58:07 PM
+
+BeginCmp
+TimeStamp = 5BC3A3BD
+Path = /5BB13610
+Reference = J101;
+ValeurCmp = Conn_02x06_Odd_Even;
+IdModule  = mymodules:Harwin-M20-02x06_RA;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCFA3A5
+Path = /5BB1CB9A
+Reference = 3V3;
+ValeurCmp = 3V3;
+IdModule  = Measurement_Points:Measurement_Point_Round-TH_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCFA387
+Path = /5BB1B20E
+Reference = 04;
+ValeurCmp = GPIO04;
+IdModule  = Measurement_Points:Measurement_Point_Round-TH_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCFA396
+Path = /5BB1B37E
+Reference = 15;
+ValeurCmp = GPIO15;
+IdModule  = Measurement_Points:Measurement_Point_Round-TH_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCFB932
+Path = /5BB1B3AA
+Reference = GND;
+ValeurCmp = GND;
+IdModule  = Measurement_Points:Measurement_Point_Round-TH_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCFA369
+Path = /5BB1B313
+Reference = 14;
+ValeurCmp = GPIO14;
+IdModule  = Measurement_Points:Measurement_Point_Round-TH_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC6896F
+Path = /5BB136B1
+Reference = C101;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC688D0
+Path = /5BB13448
+Reference = D101;
+ValeurCmp = VSMB2948;
+IdModule  = Vishay:VSMG28011G;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC3A8F1
+Path = /5BB13818
+Reference = R101;
+ValeurCmp = 560;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC686E2
+Path = /5BB13780
+Reference = R102;
+ValeurCmp = 56;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC3A3F0
+Path = /5BB129CA
+Reference = U101;
+ValeurCmp = TSOP77438;
+IdModule  = mymodules:Heim;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC687E9
+Path = /5BB1395E
+Reference = Q101;
+ValeurCmp = 2N7002;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCFBE4E
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = mymodules:tinyrep;
+EndCmp
+
+EndListe

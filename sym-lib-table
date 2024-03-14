@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Vishay_IR")(type "Legacy")(uri "C:/Users/JHulbert/Documents/kicad/Local_Modules/TSOP77/Vishay_IR.lib")(options "")(descr ""))
+  (lib (name "PiRCy-rescue")(type "KiCad")(uri "${KIPRJMOD}/PiRCy-rescue.kicad_sym")(options "")(descr ""))
+)
